@@ -1,5 +1,5 @@
 <!-- author: hgbaodev -->
-# Đồ án môn lập trình web và ứng dụng
+# Đồ án
 ### Tài khoản Admin
 
 - Username: hgbaodev
